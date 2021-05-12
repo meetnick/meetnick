@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://stackoverflow.com/users/3003150/meetnick"><img src="https://stackoverflow.com/users/flair/3003150.png" width="208" height="58" alt="profile for meetnick at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for meetnick at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 <!--
 **meetnick/meetnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
